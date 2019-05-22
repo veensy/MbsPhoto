@@ -1,0 +1,49 @@
+.navbarhomepage {
+    position: sticky !important;
+    top: 0 !important;
+}
+
+.button-trash {
+    border: none;
+    border-color: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.trash-div {
+    width: 130px;
+}
+
+.button-add {
+    border: none;
+    border-color: none;
+    background-color: transparent;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.button-add-plus {
+    border: none;
+    border-color: none;
+    background-color: transparent;
+    cursor: pointer;
+    width: 55px;
+}
+
+.button-submit {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.button-submit-div {
+    width: 100%;
+}
+
+.fixmargin {
+    margin-right: 19rem;
+}
+
+.label-title {
+    width: 130px;
+    ;
+}

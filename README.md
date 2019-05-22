@@ -1,2 +1,2 @@
 # MbsPhoto
-This is Website with back office to update your front  (in progress) 
+This is a Website with back office to update the front  (in progress) 
